@@ -522,3 +522,25 @@
 2026-09-16 23:24:44,659 [INFO] [Screener 2 (No $1 Move Limit)] Saved TradingView importable text watchlist to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_2_No_Dollar1_Limit/Chris_Moody_Watchlists/2026-09-16_TradingView_Watchlist.txt
 2026-09-16 23:24:44,659 [INFO] 
 === All Screeners Completed Successfully ===
+2026-09-17 23:16:23,313 [INFO] ==================================================
+2026-09-17 23:16:23,313 [INFO] === Dual Chris Moody Stock Scanner Started ===
+2026-09-17 23:16:23,313 [INFO] Current US Eastern Time (NY): 2026-09-17 19:16:23 EDT/EST
+2026-09-17 23:16:23,313 [INFO] ==================================================
+2026-09-17 23:16:23,313 [INFO] 
+--- Running Screener 1 (With $1 Move) ---
+2026-09-17 23:16:23,314 [INFO] Querying TradingView Screener API (with >= $1 move filter)...
+2026-09-17 23:16:23,830 [INFO] [Screener 1 (With $1 Move)] Saved 57 stocks to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_1_With_Dollar1_Move/Chris_Moody_Daily_Scans/2026-09-17_Scan.xlsx
+2026-09-17 23:16:23,831 [INFO] [Screener 1 (With $1 Move)] Analyzing 23 historical daily scans...
+2026-09-17 23:16:23,954 [INFO] [Screener 1 (With $1 Move)] Dynamic Threshold Applied: Needs >= 5 occurrences (out of 23 days)
+2026-09-17 23:16:23,967 [INFO] [Screener 1 (With $1 Move)] Saved Watchlist with 24 stocks to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_1_With_Dollar1_Move/Chris_Moody_Watchlists/2026-09-17_Watchlist.xlsx
+2026-09-17 23:16:23,967 [INFO] [Screener 1 (With $1 Move)] Saved TradingView importable text watchlist to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_1_With_Dollar1_Move/Chris_Moody_Watchlists/2026-09-17_TradingView_Watchlist.txt
+2026-09-17 23:16:23,968 [INFO] 
+--- Running Screener 2 (No $1 Move Limit) ---
+2026-09-17 23:16:23,968 [INFO] Querying TradingView Screener API (WITHOUT $1 move constraint)...
+2026-09-17 23:16:24,258 [INFO] [Screener 2 (No $1 Move Limit)] Saved 329 stocks to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_2_No_Dollar1_Limit/Chris_Moody_Daily_Scans/2026-09-17_Scan.xlsx
+2026-09-17 23:16:24,258 [INFO] [Screener 2 (No $1 Move Limit)] Analyzing 23 historical daily scans...
+2026-09-17 23:16:24,468 [INFO] [Screener 2 (No $1 Move Limit)] Dynamic Threshold Applied: Needs >= 5 occurrences (out of 23 days)
+2026-09-17 23:16:24,477 [INFO] [Screener 2 (No $1 Move Limit)] Saved Watchlist with 226 stocks to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_2_No_Dollar1_Limit/Chris_Moody_Watchlists/2026-09-17_Watchlist.xlsx
+2026-09-17 23:16:24,478 [INFO] [Screener 2 (No $1 Move Limit)] Saved TradingView importable text watchlist to /home/runner/work/sample-stock-scanner/sample-stock-scanner/Screener_2_No_Dollar1_Limit/Chris_Moody_Watchlists/2026-09-17_TradingView_Watchlist.txt
+2026-09-17 23:16:24,478 [INFO] 
+=== All Screeners Completed Successfully ===
